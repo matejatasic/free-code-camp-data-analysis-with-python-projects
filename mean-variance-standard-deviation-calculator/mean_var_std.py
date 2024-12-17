@@ -39,5 +39,3 @@ def calculate(list):
             np.sum(array).tolist()
         ]
     }
-
-    return calculations
